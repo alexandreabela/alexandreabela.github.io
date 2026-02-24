@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Blogpost # blog_name will be displayed in your blog page
 blog_description:  
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -200,6 +200,7 @@ exclude:
   - vendor
   - _books/
   - _pages/dropdown.md
+  - _teachings/
 keep_files:
   - CNAME
   - .nojekyll
