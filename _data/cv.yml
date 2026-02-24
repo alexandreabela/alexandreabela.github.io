@@ -3,7 +3,6 @@ cv:
   label: PhD Student in Graph Machine Learning
   email: alexandre.abela@polytechnique.edu
   location: Paris, France
-  image: ""
   summary: PhD student in graph machine learning at École Polytechnique with industrial applications at CMA-CGM (3rd Biggest Shipping Company Worldwide). Passionate about developing innovative algorithms to solve complex problems in various domains.
 
   social_networks:
@@ -90,16 +89,16 @@ cv:
           - Reduction of the data dimension using factor analysis of mixed data (FAMD) combined with correlation method to retrieve only most important features in dataset.
           - Analysis of the cluster using Kolmogorov-Smirnov statistical test and density peak detection to identify conditions to create understandable customer personae.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     # Awards:
     #   - title: Nobel Prize in Physics
