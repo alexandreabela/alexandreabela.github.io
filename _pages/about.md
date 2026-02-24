@@ -6,7 +6,7 @@ subtitle: PhD Student in Graph Machine Learning | Ecole Polytechnique | alexandr
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: abela_alexandre.jpg
   image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
