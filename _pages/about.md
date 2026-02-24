@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student in Graph Machine Learning | Ecole Polytechnique | alexandre.abela@polytechnique.edu
 
 profile:
-  align: left
+  align: right
   image: abela_alexandre.jpg
   image_circular: true # crops the image to make it circular
 
