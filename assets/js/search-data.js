@@ -455,8 +455,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-finished-my-double-master-degree-at-ecole-centrale-méditerranée-and-aix-marseille-université",
+          title: 'Finished my double master degree at Ecole Centrale Méditerranée and Aix-Marseille Université.',
+          description: "",
+          section: "News",},{id: "news-started-my-phd-at-ecole-polytechnique-in-collaboration-with-cma-cgm",
+          title: 'Started my PhD at Ecole Polytechnique in collaboration with CMA-CGM.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
