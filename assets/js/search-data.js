@@ -39,79 +39,79 @@ ninja.data = [{
           },
         },{id: "post-mastering-graph-ml-traditional-approaches-to-generating-graphs",
         
-          title: 'Mastering Graph ML: Traditional Approaches to Generating Graphs <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Traditional Approaches to Generating Graphs",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-traditional-approaches-to-generating-graphs-2036c2a2af10?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2026/medium-trad-approach-generating/";
           
         },
       },{id: "post-mastering-graph-ml-improving-gnns",
         
-          title: 'Mastering Graph ML: Improving GNNs <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Improving GNNs",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-improving-gnns-adb259812a8c?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2026/medium-improving-gnns/";
           
         },
       },{id: "post-mastering-graph-ml-gnns-and-the-message-passing-framework",
         
-          title: 'Mastering Graph ML: GNNs and the message-passing framework <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: GNNs and the Message-Passing Framework",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-gnns-and-the-message-passing-framework-23c5fbb8afdb?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2025/medium-message-passing/";
           
         },
       },{id: "post-mastering-graph-ml-node-embeddings",
         
-          title: 'Mastering Graph ML: Node embeddings <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Node Embeddings",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-node-embeddings-deca74f8f9f1?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2025/medium-node-embeddings/";
           
         },
       },{id: "post-mastering-graph-ml-graph-spectral-clustering",
         
-          title: 'Mastering Graph ML: Graph Spectral Clustering <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Graph Spectral Clustering",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-graph-spectral-clustering-23db3b4cc6f7?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2025/medium-graph-spectral-clustering/";
           
         },
       },{id: "post-mastering-graph-ml-node-edge-and-graph-statistics",
         
-          title: 'Mastering Graph ML: Node, Edge, and Graph Statistics <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Node, Edge, and Graph Statistics",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-node-edge-and-graph-statistics-416d3ba7c461?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2025/medium-graph-statistics/";
           
         },
       },{id: "post-mastering-graph-ml-introduction-to-graph-data",
         
-          title: 'Mastering Graph ML: Introduction to Graph Data <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Mastering Graph ML: Introduction to Graph Data",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@alexandre.abela16/mastering-graph-ml-introduction-to-graph-data-4246777e7be6?source=rss-a0b4fc7a9de9------2", "_blank");
+            window.location.href = "/blog/2025/medium-intro-graph-data/";
           
         },
       },{id: "news-finished-my-double-master-degree-at-ecole-centrale-méditerranée-and-aix-marseille-université",
