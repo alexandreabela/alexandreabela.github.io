@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teachings
+title: Teaching
 nav: true
 nav_order: 6
 calendar: true

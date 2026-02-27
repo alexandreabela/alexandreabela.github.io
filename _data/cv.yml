@@ -37,7 +37,7 @@ cv:
         end_date: 2024
         highlights:
           - Master's degree with a gap year in the middle to do internships at Stanford University and Zelros (AI startup in insurance) and an 6 months Erasmus exchange program at Università degli Studi di Brescia in Italy.
-          - Relevant coursework: Calculus, Probability, Real Analysis, Quantum Physics, Statistical Physics, Photonics, Machine Learning, Deep Learning, Generative AI, Graph Neural Networks, Computer Vision, Data Engineering & MLOps
+          - Relevant coursework":" Calculus, Probability, Real Analysis, Quantum Physics, Statistical Physics, Photonics, Machine Learning, Deep Learning, Generative AI, Graph Neural Networks, Computer Vision, Data Engineering & MLOps
           
       - institution: Aix-Marseille University
         location: Marseille, France
@@ -47,7 +47,7 @@ cv:
         end_date: 2024
         highlights:
           - Double master program in association with Centrale Méditerranée
-          - Relevant coursework: Natural Language Processing and Structured Prediction, Reinforcement Learning, Multimodal Learning, Statistical Learning Theory & Modelisation, and Solving of Non-linear Optimisation Problems.
+          - Relevant coursework":" Natural Language Processing and Structured Prediction, Reinforcement Learning, Multimodal Learning, Statistical Learning Theory & Modelisation, and Solving of Non-linear Optimisation Problems.
 
     Experience:
       - company: CMA-CGM (3rd Biggest Shipping Company Worldwide)
