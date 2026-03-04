@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Graph Machine Learning
+subtitle: PhD Student
 
 profile:
   align: right
