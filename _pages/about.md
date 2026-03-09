@@ -9,7 +9,7 @@ profile:
   image: abela_alexandre.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    [Ecole Polytechnique](https://www.polytechnique.edu/) <br>
+    <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> <br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
