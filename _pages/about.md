@@ -28,5 +28,5 @@ latest_posts:
 I am Alexandre Abela a PhD Student in the Data Science and Mining Team at the Laboratoire d'Informatique of [École Polytechnique](https://www.polytechnique.edu) in France. I am currently doing my PhD in *Graph Machine Learning* with applications in an industrial context at [CMA-CGM](https://www.cma-cgm.com/) under the supervision of [Prof. Johannes Lutzeyer](https://johanneslutzeyer.com) and [Dr. Cynthia Faure](https://www.linkedin.com/in/cynthia-faure-8aa2a383). Prior to that, I finished a double master program with an engineering master's degree from Ecole Centrale Méditerranée and an artificial intelligence master's degree from Aix-Marseille Université.
 
 Research interests:
-- relaxing permutation equivariance in *Graph Neural Networks*
-- leveraging *Quantum Machine Learning* to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
+- **Graph Machine Learning** : Fundamental work on *Graph Neural Networks* to relax the permutation equivariance assumption of these architectures.
+- **Quantum Machine Learning** : Leveraging QML for graph machine learning to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
