@@ -31,7 +31,12 @@ Research interests:
 - **Graph Machine Learning** : Fundamental work on *Graph Neural Networks* to relax the permutation equivariance assumption of these architectures.
 - **Quantum Machine Learning** : Leveraging QML for graph machine learning to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
 
-<div class="row mt-5">
+| Column 1 | Column 2 |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 2, Row 2 |
+
+<!-- <div class="row mt-5">
   <div class="col-sm-6">
     <h3>Interests</h3>
     <ul class="post-list">
@@ -59,4 +64,4 @@ Research interests:
       </li>
     </ul>
   </div>
-</div>s
+</div>s -->
