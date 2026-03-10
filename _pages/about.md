@@ -30,3 +30,33 @@ I am Alexandre Abela a PhD Student in the Data Science and Mining Team at the La
 Research interests:
 - **Graph Machine Learning** : Fundamental work on *Graph Neural Networks* to relax the permutation equivariance assumption of these architectures.
 - **Quantum Machine Learning** : Leveraging QML for graph machine learning to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
+
+<div class="row mt-5">
+  <div class="col-sm-6">
+    <h3>Interests</h3>
+    <ul class="post-list">
+      <li><strong>Graph Machine Learning:</strong> Permutation equivariance and GNNs.</li>
+      <li><strong>Quantum Computing:</strong> Beyond the WL-test limits.</li>
+      <li><strong>Industrial AI:</strong> Real-world applications in logistics.</li>
+      <li><strong>Optimization:</strong> Discrete and combinatorial structures.</li>
+    </ul>
+  </div>
+
+  <div class="col-sm-6">
+    <h3>Education</h3>
+    <ul class="post-list">
+      <li>
+        <strong>Ph.D. in Computer Science</strong> <br>
+        École Polytechnique, 2023 – Present
+      </li>
+      <li>
+        <strong>M.Sc. in Artificial Intelligence</strong> <br>
+        Aix-Marseille Université, 2023
+      </li>
+      <li>
+        <strong>M.Eng. in Engineering</strong> <br>
+        Ecole Centrale Méditerranée, 2023
+      </li>
+    </ul>
+  </div>
+</div>s
