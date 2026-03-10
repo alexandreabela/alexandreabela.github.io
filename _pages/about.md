@@ -31,19 +31,13 @@ Research interests:
 - **Graph Machine Learning** : Fundamental work on *Graph Neural Networks* to relax the permutation equivariance assumption of these architectures.
 - **Quantum Machine Learning** : Leveraging QML for graph machine learning to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
 
-| Column 1 | Column 2 |
-| ------------- | ------------- |
-| Cell 1, Row 1 | Cell 2, Row 1 |
-| Cell 1, Row 2 | Cell 2, Row 2 |
-
-<!-- <div class="row mt-5">
+<div class="row mt-5">
   <div class="col-sm-6">
     <h3>Interests</h3>
     <ul class="post-list">
-      <li><strong>Graph Machine Learning:</strong> Permutation equivariance and GNNs.</li>
-      <li><strong>Quantum Computing:</strong> Beyond the WL-test limits.</li>
-      <li><strong>Industrial AI:</strong> Real-world applications in logistics.</li>
-      <li><strong>Optimization:</strong> Discrete and combinatorial structures.</li>
+      <li>Graph Machine Learning</li>
+      <li>Quantum Machine Learning</li>
+      <li>Physics</li>
     </ul>
   </div>
 
@@ -56,12 +50,12 @@ Research interests:
       </li>
       <li>
         <strong>M.Sc. in Artificial Intelligence</strong> <br>
-        Aix-Marseille Université, 2023
+        Aix-Marseille Université, 2023 - 2024
       </li>
       <li>
         <strong>M.Eng. in Engineering</strong> <br>
-        Ecole Centrale Méditerranée, 2023
+        Ecole Centrale Méditerranée, 2020-2024
       </li>
     </ul>
   </div>
-</div>s -->
+</div>s
