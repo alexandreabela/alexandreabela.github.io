@@ -34,9 +34,11 @@ Research interests:
 <div class="row mt-5">
   <div class="col-sm-6">
     <h3>Interests</h3>
+
     - Graph Machine Learning
     - Quantum Machine Learning
     - Theoretical Physics 
+    
   </div>
 
   <div class="col-sm-6">
