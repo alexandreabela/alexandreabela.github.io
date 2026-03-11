@@ -32,13 +32,13 @@ Research interests:
 - **Quantum Machine Learning** : Leveraging QML for graph machine learning to go beyond the deterministic limit of the Weisfeiler-Lehman test for GNNs. 
 
 <div class="row mt-5">
-  <div class="col-sm-6">
-    <h3>Interests</h3>
+  <div class="col-sm-6" mardown="1">
+### Interests
 
-    - Graph Machine Learning
-    - Quantum Machine Learning
-    - Theoretical Physics 
-    
+- Graph Machine Learning
+- Quantum Machine Learning
+- Theoretical Physics
+
   </div>
 
   <div class="col-sm-6">
