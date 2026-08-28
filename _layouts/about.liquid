@@ -2,8 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-  </header>
+  <header class="post-header"></header>
 
   <article>
     {% if page.profile %}
@@ -25,7 +24,9 @@ layout: default
         <div class="more-info text-center mt-3">
           <h3 class="font-weight-bold">
             {% if site.title == 'blank' %}
-              {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+              {{ site.first_name }}
+              {{ site.middle_name }}
+              {{ site.last_name }}
             {% else %}
               {{ site.title }}
             {% endif %}

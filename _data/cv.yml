@@ -37,7 +37,7 @@ cv:
         end_date: 2028
         highlights:
           - Relevant coursework":" - Quantum Mechanics & Quantum Field Theory, High Energy Physics & Standard Model, Atomic & Molecular Physics, Astrophysics & Cosmology, Statistical Physics, General Relativity
-          
+
       - institution: Ecole Centrale Méditerranée
         location: Marseille, France
         area: Engineering
@@ -47,7 +47,7 @@ cv:
         highlights:
           - Master's degree with a gap year in the middle to do internships at Stanford University and Zelros (AI startup in insurance) and an 6 months Erasmus exchange program at Università degli Studi di Brescia in Italy.
           - Relevant coursework":" Calculus, Probability, Real Analysis, Quantum Physics, Statistical Physics, Photonics, Machine Learning, Deep Learning, Generative AI, Graph Neural Networks, Computer Vision, Data Engineering & MLOps
-          
+
       - institution: Aix-Marseille University
         location: Marseille, France
         area: Artificial Intelligence
@@ -205,7 +205,7 @@ cv:
       - name: Multimodal Learning for turn-taking prediction in dialogs [team project]
         highlights:
           - Preprocessing and training of models on unimodal data for turn-taking prediction using LSTM models for audio, CamemBERT for text, and ResNet for videos.
-          -  Comparison between early fusion architecture with dense neural networks and late fusion architecture with the trained unimodal models.
+          - Comparison between early fusion architecture with dense neural networks and late fusion architecture with the trained unimodal models.
         start_date: Jan 2024
         end_date: Mar 2024
 
