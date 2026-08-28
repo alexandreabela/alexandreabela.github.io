@@ -51,14 +51,14 @@ cv:
 
     Experience:
       - company: CMA-CGM (3rd Biggest Shipping Company Worldwide)
-        position: Data Scientist
+        position: Research Scientist
         location: Marseille, France
         start_date: 2025
         end_date: 2028
         highlights:
-          - Machine learning PhD at Ecole Polytechnique with applications in an industrial context (CIFRE PhD).
-          - Statistical analysis of the impact of several economic indicators on the freight rates. Manipulation of Big Data (tables with millions of rows) using SQL (Snowflake).
-          - Implementation of a graph-oriented approach for temporal port congestion prediction, which involved the construction of custom multirelational graphs with economic and shipping-related features combined with temporal graph neural network methods.
+          - Designed and deployed a multi-relational temporal GNN to forecast key economic indicators from network and time series data, powering a production dynamic pricing system.
+          - Built an end-to-end ML pipeline: multi-source data cleaning and engineering, graph feature construction, and benchmarking against classical forecasting baselines.
+          - Integrated conformal prediction and time-series specific normalization into the pipeline to deliver calibrated uncertainty estimates for production decision-making.
 
       - company: BPCE (2nd Biggest Banking Group in France)
         position: Data Scientist
