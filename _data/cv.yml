@@ -57,7 +57,7 @@ cv:
         end_date: 2028
         highlights:
           - Designed and deployed a multi-relational temporal GNN to forecast key economic indicators from network and time series data, powering a production dynamic pricing system.
-          - Built an end-to-end ML pipeline: multi-source data cleaning and engineering, graph feature construction, and benchmarking against classical forecasting baselines.
+          - Built an end-to-end ML pipeline":" multi-source data cleaning and engineering, graph feature construction, and benchmarking against classical forecasting baselines.
           - Integrated conformal prediction and time-series specific normalization into the pipeline to deliver calibrated uncertainty estimates for production decision-making.
 
       - company: BPCE (2nd Biggest Banking Group in France)
