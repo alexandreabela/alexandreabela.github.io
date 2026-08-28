@@ -46,7 +46,11 @@ Research interests:
     <ul class="post-list">
       <li>
         <strong>Ph.D. in Computer Science</strong> <br>
-        École Polytechnique, 2023 – Present
+        École Polytechnique, 2025 – Present
+      </li>
+      <li>
+        <strong>M.Sc. in Theoretical Physics</strong> <br>
+        Aix-Marseille Université, 2026 – Present
       </li>
       <li>
         <strong>M.Sc. in Artificial Intelligence</strong> <br>

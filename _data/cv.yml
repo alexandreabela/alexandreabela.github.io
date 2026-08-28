@@ -31,6 +31,15 @@ cv:
 
       - institution: Ecole Centrale Méditerranée
         location: Marseille, France
+        area: Theoretical Physics
+        studyType: Master's degree
+        start_date: 2026
+        end_date: 2028
+        highlights:
+          - Relevant coursework":" - Quantum Mechanics & Quantum Field Theory, High Energy Physics & Standard Model, Atomic & Molecular Physics, Astrophysics & Cosmology, Statistical Physics, General Relativity
+          
+      - institution: Ecole Centrale Méditerranée
+        location: Marseille, France
         area: Engineering
         studyType: Master's degree
         start_date: 2021
